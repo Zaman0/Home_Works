@@ -1,0 +1,7 @@
+Step 1-Browser configuration
+Step 2-Actiondriver(webdriver commands)
+Step 3-Object repository(page object model)
+Step 4-Resusable functions(common methods of application)
+Step 5-test scripts
+Step 6-property file
+Step 7-excelile handling
